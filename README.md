@@ -1,7 +1,3 @@
-Here is a draft for the **README** of your project:
-
----
-
 # DiffusionUavLoc: Visually Prompted Diffusion for Cross-View UAV Localization
 
 This repository contains the PyTorch implementation of the method proposed in the paper "DiffusionUavLoc: Visually Prompted Diffusion for Cross-View UAV Localization". The proposed framework addresses the challenge of cross-view UAV localization by combining geometry-driven image prompting and text-free diffusion models.
@@ -45,10 +41,3 @@ If you use DiffusionUavLoc in your research, please cite our paper:
 * **Weakly supervised end-to-end training**: To reduce dependency on manual annotations.
 * **Cross-domain robustness**: Investigate better generalization methods across different seasons and cities.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify or extend the contents based on your project’s specifics. Let me know if you'd like to add any additional information.
