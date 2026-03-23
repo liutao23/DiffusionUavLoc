@@ -25,14 +25,12 @@ DiffusionUavLoc is designed to handle the task of cross-view UAV localization, w
 If you use DiffusionUavLoc in your research, please cite our paper:
 
 ```
-@misc{liu2025diffusionuavlocvisuallyprompteddiffusion,
-  title={DiffusionUavLoc: Visually Prompted Diffusion for Cross-View UAV Localization}, 
-  author={Tao Liu and Kan Ren and Qian Chen},
-  year={2025},
-  eprint={2511.06422},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2511.06422},
+@article{liu2026diffusionuavloc,
+  title={DiffusionUavLoc: Visually Prompted Diffusion for Cross-View UAV Localization},
+  author={Liu, Tao and Ren, Kan and Chen, Qian},
+  journal={IEEE Internet of Things Journal},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
